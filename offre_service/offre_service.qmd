@@ -15,7 +15,7 @@ execute:
 fig-cap-location: top
 ---
 
-\newpage
+<!-- \newpage -->
 
 # Contexte et objectifs
 
@@ -51,5 +51,7 @@ Enjeu: faire de la réforme du mode de scrutin un enjeu saillant de la campagne 
   - Synthèse stratégique et accompagnement client
 
 **Forfait complet** : ***4000 $*** (rabais de 750 $)
+
+- *Possibilité de **ré-évaluation à la baisse** après la première rencontre de projet.*
 
 **En option**: coordination avec le panel - 500 $.
